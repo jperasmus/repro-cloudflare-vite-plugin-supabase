@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^0.1.21",
+    "@cloudflare/vite-plugin": "^1.21.1",
     "vite": "^6.2.5",
-    "wrangler": "^4.7.1"
+    "wrangler": "^4.59.3"
   },
   "dependencies": {
     "@supabase/ssr": "^0.6.1",
